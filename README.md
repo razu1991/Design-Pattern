@@ -27,3 +27,6 @@ Generally design pattern can be broken down into three types.
 8. Proxy
 9. Singleton
 10. Strategy
+
+### Any query
+#### shahnaouzrazu21@gmail.com
